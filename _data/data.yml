@@ -173,9 +173,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My portfolio of projects are as follows:
     assignments:
       - title: DASH (Digital all-in-one System for Health Products)
         link: "https://share.hsa.gov.sg/"
