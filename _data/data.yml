@@ -10,25 +10,25 @@ sidebar:
     # Profile information
     name: Shafik Walakaka
     tagline: Software Delivery Manager
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: shafik-walakaka-w-storm.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: ahmadshafik92@gmail.com
+    phone: (65) 9021 3950
+    timezone: Singapore Time (SGT) (UTC + 8)
+    # citizenship: Malaysian (Singapore Permanent Resident)
+    website: blog.shafikwalakaka.com #do not add http://
+    linkedin: walakaka
+    # xing: alandoe
+    github: walakaka77
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: assets/resume.pdf
 
     languages:
       title: Languages
@@ -36,39 +36,34 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Malay
+          level: Native
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Chinese
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Technology
           link:
 
-        - item: Snowboarding
+        - item: Search Engine Optimisation
           link:
 
-        - item: Cooking
+        - item: Dog Behaviour
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Full-Time Software Delivery Manager with experience managing development, QA, and DevOps teams, ensuring high-quality software delivery through effective coordination of deployments, on time and within budget. In my free time, I manage websites like [my personal blog](blog.shafikwalakaka.com) and [Pet Coach SG](petcoach.sg), leveraging my technical skills to optimize performance and online visibility via SEO. I also spend my free time learning new skills with my dog, Storm.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MEng in Aerospace Engineering
+        university: University of Sheffield
+        time: 2013 – 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,99 +72,82 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Singapore-Cambridge GCE A Level
+        university: Anglo-Chinese Junior College
+        time: 2009 - 2010
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Manage a team of 30 to ensure the products are developed, tested and delivered into production as per the business requirements (18 Developers, 4 QA, 4 Business Analysts, 3 DevOps)
+            - Authors (edits) and review the technical specifications document.
+            - Assess product requirements, reviews API specifications and execute tests on third-party APIs.
+            - Plan, execute and monitor the implementation, testing and delivery of products involving third party
+            integrations.
+            - Sequence and execute the delivery of the functionality into production.
+            - Coordinates SysOps and DevOps activities to ensure successful delivery of business features.
+            - Monitor production issues when a new functionality is released until the system stabilizes.
+            - Main point of contact for communication with the project steering committee and senior management
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Delivery Manager
+        time: Mar 2023 - Present
+        company: The Software Practice, Singapore
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            Manage a team of 30 to ensure the products are developed, tested and delivered into production as per the business requirements (18 Developers, 4 QA, 4 Business Analysts, 3 DevOps):
+            - Authors (edits) and review the technical specifications document.
+            - Assess product requirements, reviews API specifications and execute tests on third-party APIs.
+            - Plan, execute and monitor the implementation, testing and delivery of products involving third party
+            integrations.
+            - Sequence and execute the delivery of the functionality into production.
+            - Coordinates SysOps and DevOps activities to ensure successful delivery of business features.
+            - Monitor production issues when a new functionality is released until the system stabilizes.
+            - Main point of contact for communication with the project steering committee and senior management
+      - role: Business Analyst
+        time: Feb 2021 - Mar 2023
+        company: The Software Practice, Singapore
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Managed a team of 4-6, including QA and Dev, to successfully deliver web applications on time and within budget.
+            - Developed effective communications skills and a strong fundamental understanding of technology.
+            - Reviews the client feature request and provides preliminary assessment of complexity.
+            - Authors functional specifications, technical specifications, and architecture diagrams
+            - Translates business requirements into logical functionality for the development team.
+            - Plan, execute and monitor the implementation, testing and delivery of the product.
+            - Plan, execute and monitor the user acceptance test.
+      - role: Business Analyst
+        time: Oct 2018 – Jan 2021
+        company: SIA Engineering Company
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Liaised with various business units to analyze processes, identify optimization opportunities, and explore potential for implementing technology solutions to streamline operations.
+            - Analyse processes in various business units to identify potential optimization.
+            - Presented project proposals to senior management.
+            - Plan, Monitor and Execute the implementation of approved projects.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: AWS Certified SysOps Administrator - Associate
+          start: Sep 2023
+          end: Sep 2026
+          organization: AWS
+          credentialid: WB4J240CWJV41SGR
+          credentialurl: https://www.credly.com/badges/dc43db0c-3db1-4e56-aa70-9deecf534e76/public_url
+          credentialname: AWS
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+            Demonstrated a comprehensive understanding of how to deploy, manage, and operate IT systems on the AWS Cloud. Practical hands-on experience migrating on-premises workloads to AWS with my DevOps team, as well as monitoring, scaling, and securing systems on the platform. Apply understanding of trade-offs between operational efficiency and security best practices, to ensure successful project delivery by balancing both to meet the needs of the business.
+        - name: Project Management Professional (PMP)
+          start: Apr 2023
+          end: Apr 2026
+          organization: Project Management Institute
+          credentialid: 3449651
+          credentialurl: https://www.credly.com/badges/738b54a4-bf86-48c2-af27-f5d420c8f550/public_url
+          credentialname: PMP
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Demonstrated expertise in applying project management principles, primarily focusing on planning, executing, monitoring, and closing projects. I have hands-on experience leading cross-functional teams, including business and technical teams (infra, dev, QA), to deliver projects successfully. I ensure close stakeholder engagement throughout the project lifecycle to guarantee timely delivery and maximize business value. My approach integrates risk management, stakeholder communication, and process optimization to meet project objectives and deliver results on time and within budget.
 
 projects:
     title: Projects
@@ -178,88 +156,91 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: DASH (Digital all-in-one System for Health Products)
+        link: "https://share.hsa.gov.sg/"
+        tagline: "Platform for Licensing all Advance Therapy Health Products operations in Singapore."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: MyHajSG
+        link: "https://haj.muis.gov.sg/"
+        tagline: "Platform for all Muslim pilgrims in Singapore to register for Haj"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: LEAP (Land Enhancement Administration Portal)
+        link: "https://app.sla.gov.sg/leap/"
+        tagline: "Platform for all Land Sales that occurs in Singapore"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: ASOMS (Advanced Station Operations Management System)
+        link: "https://asoms.smrt.com.sg/"
+        tagline: "Manages cash management and operational rosters for all SMRT stations"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Pet Coach SG
+        link: "https://petcoach.sg/"
+        tagline: "Main business website for the Pet Coach SG Pte Ltd"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Microsoft, Youtrack, JIRA
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Figma, Balsamic
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: AWS, Azure
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Search Engine Optimisation
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Postman, GitLab
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Windows, Linux, K8s
+        level: 65%
+
+      - name: SQL
+        level: 55%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    With <i class="fas fa-heart"></i> by <a href="https://blog.shafikwalakaka.com/" target="_blank" rel="nofollow">Shafik Walakaka</a>
