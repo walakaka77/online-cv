@@ -240,11 +240,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Project Management, Communications
+        level: 98%
+
       - name: Microsoft, Youtrack, JIRA
         level: 98%
 
       - name: Figma, Balsamic
-        level: 98%
+        level: 90%
 
       - name: AWS, Azure
         level: 80%
