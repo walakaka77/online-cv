@@ -149,6 +149,27 @@ certifications:
           details: |
             Demonstrated expertise in applying project management principles, primarily focusing on planning, executing, monitoring, and closing projects. I have hands-on experience leading cross-functional teams, including business and technical teams (infra, dev, QA), to deliver projects successfully. I ensure close stakeholder engagement throughout the project lifecycle to guarantee timely delivery and maximize business value. My approach integrates risk management, stakeholder communication, and process optimization to meet project objectives and deliver results on time and within budget.
 
+        - name: Professional Scrum Master
+          start: Jan 2021
+          # end: Apr 2026
+          organization: Scrum.org
+          # credentialid: 3449651
+          credentialurl: https://www.credly.com/badges/b2383c91-f94c-4013-8526-873f0da24629/public_url
+          credentialname: Scrum.org
+          details: |
+            Facilitate Scrum processes to ensure smooth execution and minimal distractions for the development team. Ensure the gap between the Product Owner and the development team is narrow, fostering clear communication and alignment. Conduct sanity checks within the team to ensure competency and knowledge gaps do not hinder progress. Identify and remove obstacles, supporting continuous improvement, and ensuring the team remains focused on delivering high-quality results efficiently.
+
+
+        - name: Professional Product Owner
+          start: Jan 2021
+          # end: Apr 2026
+          organization: Scrum.org
+          # credentialid: 3449651
+          credentialurl: https://www.credly.com/badges/ec8848f3-08f3-4c2f-b519-f74971615206/public_url
+          credentialname: Scrum.org
+          details: |
+            Adept at defining and prioritizing the product backlog to ensure the development team focuses on the most valuable features. Collaborate closely with stakeholders to align product development with business objectives. Understand business requirements end to end, define a feasible minimum viable product (MVP) within the required timeframe, and ensure continuous communication between stakeholders and the development team to prevent any deviation from business goals and requirements.
+
 projects:
     title: Projects
     intro: >
