@@ -175,6 +175,10 @@ projects:
     intro: >
       My portfolio of projects are as follows:
     assignments:
+      - title: flightSG
+        link: "https://flightsg.caas.gov.sg/"
+        tagline: "Platform for issuing permits for any flights that has a takeoff or landing in Singapore"
+
       - title: DASH (Digital all-in-one System for Health Products)
         link: "https://share.hsa.gov.sg/"
         tagline: "Platform for Licensing all Advance Therapy Health Products operations in Singapore."
