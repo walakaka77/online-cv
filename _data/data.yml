@@ -240,6 +240,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Search Engine Optimisation
+        level: 98%
+
       - name: Project Management, Communications
         level: 98%
 
@@ -251,9 +254,6 @@ skills:
 
       - name: AWS, Azure
         level: 80%
-
-      - name: Search Engine Optimisation
-        level: 75%
 
       - name: Postman, GitLab
         level: 70%
